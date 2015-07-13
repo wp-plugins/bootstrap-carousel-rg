@@ -1,5 +1,5 @@
 === Bootstrap Carousel RG ===
-Contributors: kasigi
+Contributors: kasigi,soreingold 
 Tags: carousel,slideshow,bootstrap,slider
 Requires at least: 3.0.1
 Tested up to: 4.2.2
